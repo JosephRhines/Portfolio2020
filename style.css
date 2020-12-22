@@ -1,23 +1,31 @@
 span {background-color:darkcyan;}
-
+/* I added the navbar-brand class to change the text color of my name to white */
 .navbar-light .navbar-brand {color:white;}
+
+
 
 h1 {color:darkcyan;}
 
 h2 {color:darkcyan;}
 
-
+/* I added a header class to change the background color and margins in the containers */
 .header {margin:60px; 
-         margin-left:10px;
+         margin-left:30px;
          margin-right:10px;
          background-color:white;}
+
+        
+         
 
 .text    {
           margin-left:30px;
           }
 
-
+/* I created the button class to make the submit button darkcyan */
+.button {background-color:darkcyan}        
          
 
 
 body {background-color:lightgrey;}
+
+.span2 {padding:20px}
