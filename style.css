@@ -27,5 +27,5 @@ h2 {color:darkcyan;}
 
 
 body {background-color:lightgrey;}
-
+/* I created a span2 class to add padding so my About Me Header could move a little down from the top */
 .span2 {padding:20px}
