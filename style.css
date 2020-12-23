@@ -23,7 +23,7 @@ h2 {color:darkcyan;}
 
 /* I created the button class to make the submit button darkcyan */
 .button {background-color:darkcyan}  
-
+/* I added a footer class to style the sticky footer */
 footer {
     position: fixed;
     left: 0;
