@@ -8,6 +8,12 @@ h1 {color:darkcyan;}
 
 h2 {color:darkcyan;}
 
+/* I created a span2 class to add padding so my About Me Header could move a little down from the top */
+.span2 {padding:20px}
+
+body {background-color:lightgrey;}
+
+
 /* I added a header class to change the background color and margins in the containers */
 .header {margin:60px; 
          margin-left:30px;
@@ -15,11 +21,9 @@ h2 {color:darkcyan;}
          background-color:white;}
 
         
-     
-
-.text    {
-          margin-left:30px;
-          }
+.text {margin-left:30px;}
+          
+          
 
 /* I created the button class to make the submit button darkcyan */
 .button {background-color:darkcyan}  
@@ -32,13 +36,10 @@ footer {
     background-color: darkgrey;
     text-align: center;
     border-top: 5px solid darkcyan;
-    height:50px;
-   
- }
+    height:50px;}
          
 
 
-body {background-color:lightgrey;}
-/* I created a span2 class to add padding so my About Me Header could move a little down from the top */
-.span2 {padding:20px}
+
+
 
