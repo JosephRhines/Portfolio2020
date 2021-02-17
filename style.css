@@ -11,7 +11,7 @@ h2 {color:darkcyan;}
 /* I created a span2 class to add padding so my About Me Header could move a little down from the top */
 .span2 {padding:20px}
 
-body {background-color:lightgrey;}
+body {background-color:aqua;}
 
 
 /* I added a header class to change the background color and margins in the containers */
